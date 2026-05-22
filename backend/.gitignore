@@ -1,0 +1,7 @@
+# Python cache (if applicable)
+__pycache__/
+*.pyc
+
+# Template folders
+bare_templates/
+templates/
